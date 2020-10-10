@@ -31,7 +31,7 @@ In the Test Scores by School Spending data frame, each measure of succcess decre
 ![alt text](https://github.com/samanthasains/pandas-challenge/blob/main/PyCitySchools/Images/scores_by_size.PNG?raw=true "Test Scores by Size")
 
 ### Trend to Note: Implications of School Size
-The Test Scores by School Size show insignificiant difference for average math and reading scores and percentage passing for small and medium schools. However, large schools (2000-5000 students) show a drop off from small and medium schools, ranging from 2 percentage points lower in average reading score to 6 percentage points lower in average math score. The percentage of passing students drops significantly as well. This trend suggests that students at small and medium schools have higher test scores and passing rates than large schools.
+The Test Scores by School Size show insignificant differences for average math and reading scores and percentage passing for small and medium schools. However, large schools (2000-5000 students) show a drop off from small and medium schools, ranging from 2 percentage points lower in average reading score to 6 percentage points lower in average math score. The percentage of passing students drops significantly as well. This trend suggests that students at small and medium schools have higher test scores and passing rates than large schools.
 
 ## Test Scores by Type of School
 ![alt text](https://github.com/samanthasains/pandas-challenge/blob/main/PyCitySchools/Images/scores_by_type.PNG?raw=true "Test Scores by Type")
