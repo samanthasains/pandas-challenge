@@ -4,7 +4,7 @@ In this repo, I analyze test scores and budgets for a school district using pand
 I've generated several data frames to show different levels of analysis for the school district.
 
 ## High Level summary of the district
-![alt text](https://https://raw.githubusercontent.com/samanthasains/pandas-challenge/main/PyCitySchools/Images/district_summary.PNG "District Summary")
+![alt text](https://raw.githubusercontent.com/samanthasains/pandas-challenge/main/PyCitySchools/Images/district_summary.PNG "District Summary")
 
 ## High Levels Summary By School
 ![alt text](https://github.com/samanthasains/pandas-challenge/blob/main/PyCitySchools/Images/school_summary.PNG?raw=true "Schools Summary")
